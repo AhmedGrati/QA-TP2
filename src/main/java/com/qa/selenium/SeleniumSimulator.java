@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 public class SeleniumSimulator implements ISimulator {
 
     final static String DATE_FORMAT = "dd/MM/yyyy";
-    final static String PRODUCT_NAME = "PC PORTABLE ASUS ROG STRIX G531GT / I7 9È GÉN / 16 GO";
+    final static String PRODUCT_NAME = "PC portable MacBook M1 13.3";
     private User user;
     private WebDriver driver;
     private JavascriptExecutor js;
